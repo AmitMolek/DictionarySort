@@ -1,5 +1,5 @@
 # Dictionary Sort
-  Sorts a words dictionary by sub-string, length or both.
+  Sorts words by sub-string, length or both.
 
 ### Reason
   The intended use was for a game like the Fallout 4 computer hacking. I needed a way to sort different words for different difficulty levels.
