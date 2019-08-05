@@ -13,7 +13,7 @@
 
 ### Options
   #### By Sub-String
-  Searches the entire dictionary for words that: * *Starts with, Contains or Ends with* * the sub-string you give it.
+  Searches the entire dictionary for words that: **Starts with, Contains or Ends with** the sub-string you give it.
 
   #### By Length
-  Seaches the entire dictionary for words with specific length (You can give it minimum and maximum length).
+  Seaches the entire dictionary for words with **specific length** (You can give it minimum and maximum length).
